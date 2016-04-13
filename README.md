@@ -1,2 +1,2 @@
-Gerador de Fomulários para Eventos + QRcode
+Gerador de Fomulários para Eventos: Angular + QRcode
 =========================================
